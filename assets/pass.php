@@ -1,3 +1,3 @@
 <?php
-$password_global = "password";
+$password_global = "ADMIN";
 ?>
