@@ -1,0 +1,23 @@
+body {
+    background-color: #262431;
+    color: #f8f9fa;
+    
+}
+
+.container {
+    margin: auto;
+    margin-top: 40px;
+    width: 100%;
+}
+
+h1 {
+    margin-bottom: 30px;
+    color: #f8f9fa;
+}
+
+h1,
+h3,
+label,
+p {
+    color: #f8f9fa;
+}
