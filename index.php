@@ -46,15 +46,13 @@
                 sort($files); // Trie les noms de fichiers par ordre alphabétique
 
                 echo "<form action='jsonreader.php' method='get' class='form-inline justify-content-center'>";
-                echo "<div class='form-group'>";
-                echo "<select name='file' class='form-control mr-2'>";
+                echo "<select name='file' class='form-control m-2'>";
 
                 foreach ($files as $file) {
                     echo "<option value='$file'>$file</option>";
                 }
 
                 echo "</select>";
-                echo "</div>";
                 echo "<button type='submit' class='btn btn-primary'>Modifier</button>";
                 echo "</form>";
                 ?>
@@ -81,20 +79,18 @@
                 sort($files); // Trie les noms de fichiers par ordre alphabétique
 
                 echo "<form action='imgreader.php' method='get' class='form-inline justify-content-center'>";
-                echo "<div class='form-group'>";
-                echo "<select name='file' class='form-control mr-2'>";
+                echo "<select name='file' class='form-control m-2'>";
 
                 foreach ($files as $file) {
                     echo "<option value='$file'>$file</option>";
                 }
 
                 echo "</select>";
-                echo "</div>";
                 echo "<button type='submit' class='btn btn-primary'>Modifier</button>";
                 echo "</form>";
                 ?>
 
-                <div class="text-center" style="margin-top: 60px;">
+                <div class="text-center" style="margin-top: 50px;">
                     <a href="reset.php" class="btn btn-danger" id="resetBtn">Remettre les fichiers comme à l'origine</a>
                 </div>
 
