@@ -1,0 +1,69 @@
+{
+    "settings": {
+        "enabled": true
+    },
+    "title": "Welcome to the Avengers",
+
+    "startingPoint1": "Welcome young recruits!\n\nTo complete your registration with the Avengers, you will need to follow me on our exploration of the Avengers HQ! Pay close attention...",
+    "startingPoint2": "And it's very likely that I'll have some puzzles along the way...\n\nStart by heading to your starting point!",
+    "startingPointQuest1Level0": "Find the 'Language Dictionaries' section.",
+    "startingPointQuest1Level1": "Find the 'Chemistry' section.",
+    "startingPoint3": "That's a good start... To know where to go next, suggest an inspiring quote to me!",
+    "startingPointQuest2": "Find a quote around your starting point.",
+    "startingPointQuest2Placeholder": "Enter the author's name",
+    "startingPointQuest2Error": "Incorrect answer!",
+    "startingPointQuest2AnswerLevel0": "George Eliot",
+    "startingPointQuest2AnswerLevel1": "François Mauriac",
+    "startingPoint4": "Hmm... You show skills that could help you become an Avenger...",
+    
+    "bookSearch1": "Hi! I hope Tony didn't intimidate you too much... I'm sure he'd be nicer to you if you brought him his favorite book!",
+    "bookSearchQuest1Level0": "Find the book 'Commet dessiner les comics la méthode Marvel'.",
+    "bookSearchQuest1Level1": "Find the book 'Le metavers (Matthew Ball)'.",
+    "bookSearch2": "Excellent! Let's check if you found the right book!",
+    "bookSearchQuest2Level0": "Enter the last word on page 88.",
+    "bookSearchQuest2Level1": "Enter the last word on page 154.",
+    "bookSearchQuest2Placeholder": "Enter the word",
+    "bookSearchQuest2Error": "Incorrect answer!",
+    "bookSearchQuest2AnswerLevel0": "sommet",
+    "bookSearchQuest2AnswerLevel1": "metavers",
+    
+    "printArea1": "Ah, a gift for me? That's kind, I've been looking for this book for a long time...\n\nYou have earned the privilege of visiting our printing room!",
+    "printAreaQuest1": "Find the photocopier room.",
+    "printArea2": "Here all recruits can print documents!\n\nYou can easily pay with your student card.",
+    "printAreaQuest2": "What is the largest paper size available?",
+    "printAreaQuest2Placeholder": "Enter the answer",
+    "printAreaQuest2Error": "Incorrect answer!",
+    "printAreaQuest2Answer": "A3",
+    "printArea3": "Are you sure you're a new recruit?! You might advance faster than you think...",
+    
+    "comicSpace1": "Hi!\n\nWould you like to discover our meditation room? It's a peaceful place, you'll see!",
+    "comicSpaceQuest1": "Find the relaxation corner/comic & manga area.",
+    "comicSpace2": "Here you can come to read or even rest!\n\nCan you find a well-known maxim?",
+    "comicSpaceQuest2": "Find a quote around the comic & manga area.",
+    "comicSpaceQuest2Placeholder": "Enter the author's name",
+    "comicSpaceQuest2Error": "Incorrect answer!",
+    "comicSpaceQuest2Answer": "Keiko Ichiguchi",
+    "comicSpace3": "Ah, you reassure me! I feared for a moment that you were HYDRA agents...",
+    
+    "workRoom1": "Hey, come back here!\n\nThe Avengers HQ is also a place of work and concentration... But if you need to work in a group, we have rooms for that!",
+    "workRoomQuest1": "Find workroom no. 3.",
+    "workRoom2": "These workrooms can be reserved on the Affluences mobile app (minimum 3 people)!",
+    "workRoomQuest2": "Find a quote around the room.",
+    "workRoomQuest2Placeholder": "Enter the author's name",
+    "workRoomQuest2Error": "Incorrect answer!",
+    "workRoomQuest2Answer": "Helen Keller",
+    
+    "libraryHours1": "It's me again!\n\nI saw how well you handled the library website... I hope you took note of the hours!",
+    "libraryHoursQuest1": "Find the latest closing time.",
+    "libraryHoursQuest1Placeholder": "Enter a time",
+    "libraryHoursQuest1Error": "Incorrect answer!",
+    "libraryHoursQuest1Answer": "22h",
+    "libraryHours2": "You show impressive skills!\n\nYou will become a successful Avenger, I'm convinced!",
+    
+    "endBeforeQuiz": "Well, I must say that everything seems more than correct to me!\n\nI think everything is [...]",
+    
+    "quizIntro1": "Apparently, I have no say in your admission... I hope you share my vision of the Universe!",
+    "quizIntro2": "I have a few questions before letting you continue your superhero training...",
+    
+    "quizEnd": "You are definitely ready to join the Avengers...\n\nCongratulations!"    
+}

@@ -1,0 +1,69 @@
+{
+    "settings": {
+        "enabled": true
+    },
+    "title": "Bienvenue chez les Avengers",
+
+    "startingPoint1": "Bienvenue jeunes recrues !\n\nAfin de finaliser votre inscription parmi les Avengers, vous allez devoir me suivre lors de notre exploration du QG des Avengers ! Soyez attentif...",
+    "startingPoint2": "Et il est fort probable que j'ai quelques énigmes en chemin...\n\nCommencez par vous rendre à votre point de départ !",
+    "startingPointQuest1Level0": "Trouvez le rayon « Dictionnaires de langues ».",
+    "startingPointQuest1Level1": "Trouvez le rayon « Chimie ».",
+    "startingPoint3": "C'est un bon début... Pour savoir où aller ensuite, proposez-moi une citation inspirante !",
+    "startingPointQuest2": "Trouvez une citation autour de votre point de départ.",
+    "startingPointQuest2Placeholder": "Entrez le nom de l'auteur",
+    "startingPointQuest2Error": "Réponse incorrecte !",
+    "startingPointQuest2AnswerLevel0": "George Eliot",
+    "startingPointQuest2AnswerLevel1": "François Mauriac",
+    "startingPoint4": "Hmm... Vous montrez des compétences qui pourraient vous aider à devenir un Avenger...",
+
+    "bookSearch1": "Salut ! J’espère que Tony ne vous a pas trop intimidés... Je suis sûr qu'il serait plus sympa avec vous si vous lui rapportiez son livre préféré !",
+    "bookSearchQuest1Level0": "Trouvez le livre « Commet dessiner les comics la méthode Marvel ».",
+    "bookSearchQuest1Level1": "Trouvez le livre « Le metavers (Matthew Ball) ».",
+    "bookSearch2": "Excellent ! Vérifions si vous avez trouvé le bon livre !",
+    "bookSearchQuest2Level0": "Entrez le dernier mot de la page 88.",
+    "bookSearchQuest2Level1": "Entrez le dernier mot de la page 154.",
+    "bookSearchQuest2Placeholder": "Entrez le mot",
+    "bookSearchQuest2Error": "Réponse incorrecte !",
+    "bookSearchQuest2AnswerLevel0": "sommet",
+    "bookSearchQuest2AnswerLevel1": "metavers",
+
+    "printArea1": "Ah, un cadeau pour moi ? C'est aimable, cela fait longtemps que je cherchais ce livre...\n\nVous avez gagné le privilège de visiter notre imprimerie !",
+    "printAreaQuest1": "Trouvez la salle des photocopieurs.",
+    "printArea2": "Ici toutes les recrues peuvent imprimer des documents !\n\nVous pouvez payer facilement avec votre carte étudiante.",
+    "printAreaQuest2": "Quel est le plus grand format de papier disponible ?",
+    "printAreaQuest2Placeholder": "Entrez la réponse",
+    "printAreaQuest2Error": "Réponse incorrecte !",
+    "printAreaQuest2Answer": "A3",
+    "printArea3": "Êtes-vous sûr d'être une nouvelle recrue ?! Vous pourriez avancer plus rapidement que vous ne le pensez...",
+
+    "comicSpace1": "Salut !\n\nSouhaitez-vous découvrir notre salle de méditation ? C'est un lieu paisible, vous verrez !",
+    "comicSpaceQuest1": "Trouvez le coin détente/espace BD & mangas.",
+    "comicSpace2": "Ici vous pouvez venir lire ou même vous reposer !\n\nPouvez-vous trouver une maxime bien connue ?",
+    "comicSpaceQuest2": "Trouvez une citation autour de l’espace BD & mangas.",
+    "comicSpaceQuest2Placeholder": "Entrez le nom de l'auteur",
+    "comicSpaceQuest2Error": "Réponse incorrecte !",
+    "comicSpaceQuest2Answer": "Keiko Ichiguchi",
+    "comicSpace3": "Ah, vous me rassurez ! J'ai craint un instant que vous soyez des agents de l'HYDRA...",
+
+    "workRoom1": "Hé, revenez par ici !\n\nLe QG des Avengers est aussi un lieu de travail et de concentration... Mais si vous avez besoin de travailler en groupe, nous avons des salles prévues à cet effet !",
+    "workRoomQuest1": "Trouvez la salle de travail n°3.",
+    "workRoom2": "Ces salles de travail sont réservables sur l’application mobile Affluences (minimum 3 personnes) !",
+    "workRoomQuest2": "Trouvez une citation autour de la salle.",
+    "workRoomQuest2Placeholder": "Entrez le nom de l'auteur",
+    "workRoomQuest2Error": "Réponse incorrecte !",
+    "workRoomQuest2Answer": "Helen Keller",
+
+    "libraryHours1": "C'est encore moi !\n\nJ'ai vu à quel point vous vous êtes bien débrouillés avec le site de la bibliothèque... J'espère que vous avez bien noté les horaires !",
+    "libraryHoursQuest1": "Trouvez l'heure de fermeture la plus tardive possible.",
+    "libraryHoursQuest1Placeholder": "Entrez un horaire",
+    "libraryHoursQuest1Error": "Réponse incorrecte !",
+    "libraryHoursQuest1Answer": "22h",
+    "libraryHours2": "Vous montrez des aptitudes impressionnantes !\n\nVous deviendrez un Avenger accompli, j'en suis convaincu !",
+
+    "endBeforeQuiz": "Bon et bien je dois dire que tout cela me semble plus que correct !\n\nJe crois que tout est [...]",
+
+    "quizIntro1": "Apparemment, je n'ai pas mon mot à dire sur votre admission... J'espère que vous partagez ma vision de l'Univers !",
+    "quizIntro2": "J'ai quelques questions avant de vous laisser poursuivre votre formation de super-héros...",
+
+    "quizEnd": "Vous êtes définitivement prêts pour entrer chez les Avengers...\n\nFélicitations !"
+}
