@@ -14,7 +14,11 @@
 <body>
 
     <?php include 'assets/navbar.php';
-    include 'assets/amiconnected.php'; ?>
+    include 'assets/amiconnected.php';
+
+    // une fois présent sur le serveur online, si le chemin complet n'est pas spécifié, le fichier ne sera pas correctement modifié
+    $path = "/var/www/vhosts/projets.hlly.fr/budiscovery.hlly.fr/api/";
+    ?>
 
     <div class="container">
         <h1 class="text-center">Modifier l'image</h1>
@@ -31,10 +35,17 @@
                 // Récupérer le nom du fichier existant
                 $old_filename = $_POST['oldfile'];
 
+                /* pour le serveur local
                 if (file_exists("img/$old_filename")) {
                     unlink("img/$old_filename");
                 }
-                move_uploaded_file($tmp_name, "img/$old_filename");
+                move_uploaded_file($tmp_name, "img/$old_filename"); */
+
+                if (file_exists($path . "img/$old_filename")) {
+                    unlink($path . "img/$old_filename");
+                }
+                move_uploaded_file($tmp_name, $path . "img/$old_filename");
+
                 echo "<p>L'image a été téléchargée et remplacée avec succès.</p>";
                 echo "<div class='text-center'>";
                 echo "<a href='index.php' class='btn btn-primary'>Retour au menu</a>";

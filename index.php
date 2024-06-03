@@ -121,10 +121,12 @@
 
                                 sort($files); // Trie les noms de fichiers par ordre alphabétique
 
+                                $timestamp = time(); // Pour forcer le navigateur à recharger les images
+
                                 foreach ($files as $file) {
                                     echo "<tr>";
                                     echo "<td>$file</td>";
-                                    echo "<td><img src='img/$file' alt='$file' style='max-width: 70px;'></td>";
+                                    echo "<td><img src='img/$file?t=$timestamp' alt='$file' style='max-width: 70px;'></td>";
                                     echo "</tr>";
                                 }
                                 ?>
