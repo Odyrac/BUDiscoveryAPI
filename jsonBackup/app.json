@@ -35,6 +35,6 @@
     "tipBookSearchButton": "Site de la bibliothèque",
     "tipBookSearchURL": "https://bibliotheque.utt.fr/",
 
-    "gameEnd": "Vous avez terminé le jeu de piste !\n\nMerci de rapporter le matériel prêté à l'accueil de la bibliothèque.",
+    "gameEnd": "Vous avez terminé le jeu de piste !\nVous avez pu découvrir certains services de la bibliothèque, n'hésitez pas à repasser à l'occasion !\n\nMerci de rapporter le matériel prêté à l'accueil de la bibliothèque.",
     "feedback": "Une idée/un bug ?"
 }
