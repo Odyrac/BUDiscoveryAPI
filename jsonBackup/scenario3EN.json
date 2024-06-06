@@ -55,7 +55,7 @@
     
     "libraryHours1": "It's me again!\n\nI saw how well you handled the library website... I hope you took note of the hours!",
     "libraryHoursQuest1": "Find the latest closing time.",
-    "libraryHoursQuest1Placeholder": "Enter a time",
+    "libraryHoursQuest1Placeholder": "Enter a time (..h)",
     "libraryHoursQuest1Error": "Incorrect answer!",
     "libraryHoursQuest1Answer": "22h",
     "libraryHours2": "You show impressive skills!\n\nYou will become a successful Avenger, I'm convinced!",

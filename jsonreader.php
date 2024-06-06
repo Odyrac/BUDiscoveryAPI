@@ -18,7 +18,7 @@
 
     <div class="container">
         <header>
-            <h1 class="text-center" style="margin-bottom: 20px;">Modifiez un texte</h1>
+            <h1 class="text-center" style="margin-bottom: 20px;">Modifier un texte</h1>
         </header>
         <?php
 

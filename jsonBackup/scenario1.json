@@ -55,7 +55,7 @@
 
     "libraryHours1": "C'est encore moi !\n\nJ'ai vu à quel point vous vous êtes bien débrouillés avec le site de la bibliothèque... J'espère que vous avez bien noté les horaires !",
     "libraryHoursQuest1": "Trouvez l'heure de fermeture la plus tardive possible.",
-    "libraryHoursQuest1Placeholder": "Entrez un horaire",
+    "libraryHoursQuest1Placeholder": "Entrez un horaire (..h)",
     "libraryHoursQuest1Error": "Réponse incorrecte !",
     "libraryHoursQuest1Answer": "22h",
     "libraryHours2": "Vous êtes vraiment doués !\n\nJe suis sûr que vous allez vous plaire ici !",

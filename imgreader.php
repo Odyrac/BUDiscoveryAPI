@@ -30,7 +30,7 @@
             echo "</div>";
             echo "<input type='hidden' name='oldfile' value='$file'>";
             echo "<div class='text-center'>";
-            echo "<button type='submit' class='btn btn-success'>Modifier</button>";
+            echo "<button type='submit' class='btn btn-success'>Modifier le fichier</button>";
             echo "<div style='height: 20px;'></div>";
             echo "<a href='index.php' class='btn btn-primary'>Retour au menu</a>";
             echo "</div>";

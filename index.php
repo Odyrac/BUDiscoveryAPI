@@ -57,8 +57,8 @@
                 echo "</form>";
                 ?>
 
-                <p class="text-center mt-3">
-                    Si vous modifiez un fichier JSON, pensez bien à modifier son potentiel homologue en version anglaise.
+                <p class="text-center">
+                    <i>Si vous modifiez un fichier JSON, pensez bien à modifier son potentiel homologue en version anglaise.</i>
                 </p>
                 <h3 class="text-center" style="margin-top: 40px;">Modifier une image</h3>
                 <?php
