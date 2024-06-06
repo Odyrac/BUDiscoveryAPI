@@ -1,8 +1,7 @@
 {
-    "version": "1.0.5 [TEST]",
+    "version": "1.0.5",
 
-
-
+    
     "buttonNext": "Suivant",
     "buttonHereWeAre": "Nous y sommes !",
     "buttonFind": "Trouvé !",
